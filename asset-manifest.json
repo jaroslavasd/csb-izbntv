@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://jaroslavasd.github.io/csb-izbntv/static/css/main.ce8f4f15.chunk.css",
+    "main.js": "https://jaroslavasd.github.io/csb-izbntv/static/js/main.949d4b64.chunk.js",
+    "main.js.map": "https://jaroslavasd.github.io/csb-izbntv/static/js/main.949d4b64.chunk.js.map",
+    "runtime-main.js": "https://jaroslavasd.github.io/csb-izbntv/static/js/runtime-main.01bfdc65.js",
+    "runtime-main.js.map": "https://jaroslavasd.github.io/csb-izbntv/static/js/runtime-main.01bfdc65.js.map",
+    "static/css/2.f26e749f.chunk.css": "https://jaroslavasd.github.io/csb-izbntv/static/css/2.f26e749f.chunk.css",
+    "static/js/2.239b7e07.chunk.js": "https://jaroslavasd.github.io/csb-izbntv/static/js/2.239b7e07.chunk.js",
+    "static/js/2.239b7e07.chunk.js.map": "https://jaroslavasd.github.io/csb-izbntv/static/js/2.239b7e07.chunk.js.map",
+    "index.html": "https://jaroslavasd.github.io/csb-izbntv/index.html",
+    "static/css/2.f26e749f.chunk.css.map": "https://jaroslavasd.github.io/csb-izbntv/static/css/2.f26e749f.chunk.css.map",
+    "static/css/main.ce8f4f15.chunk.css.map": "https://jaroslavasd.github.io/csb-izbntv/static/css/main.ce8f4f15.chunk.css.map",
+    "static/js/2.239b7e07.chunk.js.LICENSE.txt": "https://jaroslavasd.github.io/csb-izbntv/static/js/2.239b7e07.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01bfdc65.js",
+    "static/css/2.f26e749f.chunk.css",
+    "static/js/2.239b7e07.chunk.js",
+    "static/css/main.ce8f4f15.chunk.css",
+    "static/js/main.949d4b64.chunk.js"
+  ]
+}
